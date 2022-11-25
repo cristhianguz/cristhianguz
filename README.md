@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristhianguz
 - 👀 I’m interested in  todo lo relacionado con el desarrollo de sofware  desarrollo web diseño ui/ux
 - 🌱 I’m currently learning  con la plataforma de platzi todo lo relacionado con la programacion y sus diferentes lenguajes
-- 💞️ I’m looking to collaborate on  ser un gran aprendis y desempeñarme como programador
+- 💞️ I’m looking to collaborate on  ser un gran aprendiz y desempeñarme como programador
 
 
 <!---
